@@ -3,18 +3,70 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
-body {
+/*@font-face {
+font-family: Baskerville;
+src: url(font/Baskerville.ttc);
+}*/
+body, html{
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+    margin: 0;
+    padding: 0;
+    margin-top: -2%;
 }
-
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
-
 /* Write all remaining styles here */
+.up-line{
+box-sizing:border-box;
+border-top: 1px solid #ccc;
+padding: 4px 0;
+    
+}
+
+h2,h1{
+    color:#a9a9aa;
+}
+
+h1{
+font-size: 90px;
+font-weight: 100;
+height:60px;
+
+}
+h1:hover{
+    color:#636468;
+cursor:pointer;
+}
+.wrapper > img{ 
+border: thick solid #a9a9aa;
+    }
+p{
+    font-size: 14.8px;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+
+.copy{
+    width: 28%;
+    position:relative;
+    bottom:0;
+    left:76%;
+    font-size: 15px;
+    
+}
+.cl-1{
+    border: thick solid #ccc;
+}
+
+.cl-1:hover{
+    border-color:#636468;
+}
