@@ -26,6 +26,7 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
 header a{
 	color: rgb(152,173,166);
     text-decoration: none;
@@ -36,7 +37,6 @@ header a:hover {
 	transition: color 1s;
 }
 
-/* 			ABOUT			 */
 #about img {
 	border: 5px rgb(152, 173, 166) solid;
 }
