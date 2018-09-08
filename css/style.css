@@ -55,7 +55,6 @@ p {
 
 #press img:hover{
 	border: 5px rgb(111,127,122) solid;
-	transition: border 1s;
 
 }
 
