@@ -22,31 +22,19 @@ h1 {
 	padding-bottom: 12px;
 	margin: 0 0 6px;
 	font-size: 6em;
-	font-weight: normal;
 	border-bottom: 1px solid #ccc;
 }
 
-header a{
+header a {
 	color: rgb(152,173,166);
-    text-decoration: none;
-}
-
-header a:hover {
-	color: rgb(111,127,122);
 }
 
 #about img {
-	border: 5px rgb(152, 173, 166) solid;
+	border: 6px rgb(152, 173, 166) solid;
 }
 
 #about a {
 	color: #1783bb;
-	text-decoration: none;
-}
-
-#about a:hover {
-	text-decoration: underline;
-
 }
 
 h2 {
@@ -58,10 +46,6 @@ p {
 	color: #555;
 	font-size: 1em;
 	margin: 0 0 20px 0;
-}
-
-#press a {
-	text-decoration: none;
 }
 
 #press img{
